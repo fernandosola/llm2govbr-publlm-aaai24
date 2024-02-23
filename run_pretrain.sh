@@ -24,7 +24,7 @@ accelerate launch --config_file pretrain/accelerate_config.yaml \
 	--evaluation_strategy="steps" \
 	--save_strategy="steps" \
 	--save_steps=500 \
-    --load_best_model_at_end=False \
+        --load_best_model_at_end=False \
 	--save_total_limit=100 \
 	--learning_rate=3e-5 \
 	--weight_decay=0.1 \
