@@ -87,3 +87,16 @@ You are an assistant that organizes items from invoices. For each provided descr
 
 This study not only contributes to solving specific challenges related to product identification in Portuguese texts but also to a broader understanding of the crucial role that continuing the pre-training can play in enhancing the performance of language models in specialized linguistic tasks. These advancements have significant implications not only for the academic community but also for professionals seeking effective solutions in practical and applied contexts.
 
+## Citation
+
+```
+@inproceedings{
+    paiva2024continued,
+    title={Continued pre-training of {LLM}s for Portuguese and Government domain: A proposal for product identification in textual purchase descriptions},
+    author={Eduardo Soares de Paiva and Fernando Sola Pereira and David da Guia Carvalho and Nilson Romero Michiles Junior and Rennis Sousa de Oliveira and Stella Mendes Meireles Bonifacio and Andre Luiz Monteiro da Rocha and Hamilton Luiz Rodrigues de Oliveira and Felipe de Abreu Moreira Cezar and Helio Theodoro Junior},
+    booktitle={AAAI-2024 Workshop on Public Sector LLMs: Algorithmic and Sociotechnical Design},
+    year={2024},
+    url={https://openreview.net/forum?id=HBDb1ybEcs}
+}
+```
+
